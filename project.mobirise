@@ -25,6 +25,10 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.7",
     "siteFonts": [],
+    "favicon": "@PROJECT_PATH@/assets/images/backpack-31x35.png",
+    "noImageResize": "",
+    "google-analytics": "",
+    "siteUrl": "undefined",
     "uniqCompNum": 9,
     "versionPublish": "4.9.7"
   },
@@ -105,7 +109,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "src": "@THEME_PATH@/components/_images/logo.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com"
@@ -131,7 +135,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/a2-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
